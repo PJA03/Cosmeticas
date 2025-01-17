@@ -1,0 +1,23 @@
+body{
+    background-color: #E8ECD7;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+h1{
+    font-family: "Bebas Neue", serif;
+    font-weight: px;
+    font-style: normal;
+}
+
+.display-1{
+    font-size: 6rem;
+}
+
+.btn{
+    background-color: #1F4529;
+    color: #EED3B1;
+}
